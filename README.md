@@ -1,8 +1,8 @@
 # BankOfKean
 
-Bank of Kean is a simple banking application written in Java. Devloped in the spring of 2020 with three classmates. 
+Bank of Kean is a simple banking application written in Java.Developed in the spring of 2020 with three classmates.
 
-BoK asks user to create a four digit pin, create either a checking or savings account, deposit an intial ammount, and choose between five different actions after creating an account. 
+BoK asks users to create a four digit pin, create either a checking or savings account, deposit an initial amount, and choose between five different actions after creating an account.
 
 Options are : Deposit, Withdraw, Calculate Interest, Check Balance, and Log Out.
 
