@@ -4,7 +4,7 @@ Bank of Kean is a simple banking application written in Java. Devloped in the sp
 
 BoK asks user to create a four digit pin, create either a checking or savings account, deposit an intial ammount, and choose between five different actions after creating an account. 
 
-Options are : Deposit, Withdraw, Calculate Interest, Check Balance, and Log Out
+Options are : Deposit, Withdraw, Calculate Interest, Check Balance, and Log Out.
 
 Calculate Interest option varies based on account created.
 
